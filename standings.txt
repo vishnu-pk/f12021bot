@@ -1,0 +1,8 @@
+POS 		POINTS			NAME
+1			324			Ravikiran
+2			288			Addy Desh
+3			244			AbhishekJ
+4			167			LightingBud
+5			130			Stealth
+6			54			VishnuPK
+7			23			arungowd345
