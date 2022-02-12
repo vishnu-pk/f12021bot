@@ -68,6 +68,11 @@ async def on_message(message):
     if 'spin' in message.content.lower():
         response = 'SBinnala master Lightingbud'
         await message.channel.send(response)
+        
+    if 'sbinnala' in message.content.lower():
+        response = 'SBinnala master Lightingbud'
+    await message.channel.send(response)
+
 
 
         
