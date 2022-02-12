@@ -65,6 +65,9 @@ async def on_message(message):
         response = 'Shut UP! Addy Desh owns Silverstone'
         await message.channel.send(response)
 
+    if 'spin' in message.content.lower():
+        response = 'SBinnala master Lightingbud'
+        await message.channel.send(response)
 
 
         
